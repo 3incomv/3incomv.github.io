@@ -1,0 +1,26 @@
+.head {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.logo {
+  margin: 20px;
+}
+
+.detail_link {
+  font-size: 30px;
+}
+
+/* Facebook Like Box width:100% */
+.fbcomments,
+.fb_iframe_widget,
+.fb_iframe_widget[style],
+.fb_iframe_widget iframe[style],
+.fbcomments iframe[style],
+.fb_iframe_widget span{
+    width: 100%! important;
+}
+
+footer {
+  margin: 20px 0;
+}
